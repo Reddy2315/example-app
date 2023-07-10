@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(206, 236, 124);
+}
+
+.container {
+    background-color: white;
+    padding: 30px;
+    margin: 40px;
+}
+.contain {
+    background-color: white;
+    padding: 30px;
+    margin: 40px;
+    text-align: center;
+    background-image: url("./images/pexels-samphan-korwong-6949272.jpg");
+    background-size: cover;
+
+}
+
+.menu {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu li {
+    display: inline;
+    background-color: aqua;
+    padding: 5px 10px;
+    border-radius: 5px;
+  
+}
+
+.menu li:hover {
+    background-color: rgb(161, 225, 225);
+}
+
+a {
+    text-decoration: none;
+}
+.bg{
+    background-image: url("./images/baground_color.jpg");
+    background-size: cover;
+    background-color: white;
+    padding: 30px;
+    margin: 40px;
+}
